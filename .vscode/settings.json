@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdio.h": "c",
+        "library.h": "c",
+        "externalsrc.h": "c",
+        "dynamiclib": "c",
+        "windows.h": "c"
+    }
+}
